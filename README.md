@@ -55,7 +55,7 @@ await client.send('Ping from JS', 'did:web:worker.example')
 
 ## Documentation
 
-* **Spec v1.0** → [`/docs/uamp-1.0.md`](spec/uamp-1.0.md)
+* **Spec v1.0** → [`/docs/uamp-1.0.md`](docs/uamp-1.0.md)
 * **Design principles** → [`/docs/design-principles.md`](docs/design-principles.md)
 * **Roadmap 1.x → 2.0** → [`/docs/roadmap.md`](docs/roadmap.md)
 
@@ -63,7 +63,7 @@ await client.send('Ping from JS', 'did:web:worker.example')
 
 ## Contributing
 
-We welcome PRs and issues!  Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) and check the open [good‑first‑issue](https://github.com/uamp-project/uamp/labels/good%20first%20issue) list.
+We welcome PRs and issues!  Please read [`/CONTRIBUTING.md`](CONTRIBUTING.md) and check the open [good‑first‑issue](https://github.com/koha-tech/uamp/labels/good%20first%20issue) list.
 
 ---
 
