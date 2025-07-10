@@ -1,0 +1,17 @@
+site_name: UAMP
+site_url: https://koha-tech.github.io/uamp/
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+nav:
+  - Home: index.md
+  - Specification 1.0: spec.md
+  - Design Rationale: design.md
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list
+  - admonition
+  - def_list

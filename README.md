@@ -41,7 +41,7 @@ sequenceDiagram
 ## Get the JS SDK
 
 ```bash
-npm install uamp-js@1
+npm install uamp-js
 ```
 
 ```ts
@@ -55,7 +55,7 @@ await client.send('Ping from JS', 'did:web:worker.example')
 
 ## Documentation
 
-* **Spec v1.0** → [`/spec/uamp-1.0.md`](spec/uamp-1.0.md)
+* **Spec v1.0** → [`/docs/uamp-1.0.md`](spec/uamp-1.0.md)
 * **Design principles** → [`/docs/design-principles.md`](docs/design-principles.md)
 * **Roadmap 1.x → 2.0** → [`/docs/roadmap.md`](docs/roadmap.md)
 
