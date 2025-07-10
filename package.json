@@ -1,0 +1,9 @@
+{
+  "name": "uamp-js",
+  "version": "1.0.0",
+  "description": "Universal Agent Messaging Protocol SDK for Node.js and the browser (ESM & CJS)",
+  "main": "index.js",
+  "keywords": ["uamp", "agent", "protocol", "sdk"],
+  "author": "Koha-Tech Solutions",
+  "license": "Apache-2.0"
+}
